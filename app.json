@@ -1,0 +1,87 @@
+{
+    "name": "『Revor』『Musíc』",
+    "description": "بوت تشغيل الموسيقي والفديو في لالمحادثة الصوتيى",
+    "logo": "https://telegra.ph/file/4c7636b9c50116387d9f6.jpg",
+    "keywords": [
+        "محادثات صوتية",
+        "بوتات تيلجرام",
+        "تشغيل فديو",
+        "بيوجرام"
+    ],
+    "website": "https://t.me/revorb0t",
+    "repository": "https://github.com/RevorTeam/RevorMusic",
+    "success_url": "https://t.me/rev0r",
+    "env": {
+        "API_ID": {
+            "description": "api id تستطيع جلبه من my.telegram.org",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "api hash تستطيع جلبه من.telegram.org",
+            "required": true
+        },
+        "BOT_TOKEN": {
+            "description": "التوكين اللخاص بك من @BotFather",
+            "required": true
+        },
+        "BOT_USERNAME": {
+            "description": "معرف بوتك @BotFather",
+            "required": true
+        },
+        "BOT_NAME": {
+            "description": "اسم بوتك الموجود ب @BotFather",
+            "required": true
+        },
+        "ASSISTANT_NAME": {
+            "description": "معرف الحساب المساعد بدون @",
+            "required": true
+        },
+        "SESSION_NAME": {
+            "description": "جلسة البيوجرام",
+            "required": true
+        },
+        "SUDO_USERS": {
+            "description": "ايدي المطورين",
+            "required": true
+        },
+        "GROUP_SUPPORT": {
+            "description": "معرف جروب الدعم بدون @",
+            "required": true,
+            "value": "kkv65r"
+        },
+        "UPDATES_CHANNEL": {
+            "description": "معرف قناتك بدون @",
+            "required": true,
+            "value": "Revorb0t"
+        },
+        "OWNER_NAME": {
+            "description": "معرف المطور بدون @",
+            "required": true,
+            "value": "u660p"
+        },
+        "ALIVE_NAME": {
+            "description": "اسم حسابك علي التيلجرام",
+            "required": true,
+            "value": "ريفور"
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        },
+        {
+            "url": "heroku/nodejs"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "stack": "container"
+}
