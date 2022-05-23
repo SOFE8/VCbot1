@@ -55,7 +55,7 @@
 ## التنصيب علي هيوركا 💜
 من أسهل طرق تشغيل البوت ولكن مدتها 22 يوم فقط 
 
-[![تشغيل](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RevorTeam/RevorMusic)
+[![تشغيل](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SOFE8/VCbot)
 
 
 
@@ -63,9 +63,9 @@
 
 
 ### قناة التحديثات والدعم 🎑
-<a href="https://t.me/revorb0t"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/kkv65r"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/revorb0t"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/bc_cb"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 
 ### تم تطوير السورس بواسطة
-<a href="https://t.me/u660p"><img src="https://img.shields.io/badge/Dev%20Sonic-blue.svg?style=for-the-badge&logo=Aboelmagd"></a> <a href="https://t.me/yyybd"><img src="https://img.shields.io/badge/Dev%20Ayad-blue.svg?style=for-the-badge&logo=Ayad"></a> <a href="https://t.me/MahmoudM2"><img src="https://img.shields.io/badge/Dev%20Mahmoud-blue.svg?style=for-the-badge&logo=Mahmoud"></a>
+<a href="https://t.me/NO_NN"><img src="https://img.shields.io/badge/Dev%20Sonic-blue.svg?style=for-the-badge&logo=Aboelmagd"></a> <a href="https://t.me/NO_NN"><img src="https://img.shields.io/badge/Dev%20Ayad-blue.svg?style=for-the-badge&logo=Ayad"></a> <a href="https://t.me/NO_NN"><img src="https://img.shields.io/badge/Dev%20Mahmoud-blue.svg?style=for-the-badge&logo=Mahmoud"></a>
